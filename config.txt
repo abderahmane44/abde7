@@ -1,4 +1,4 @@
-owner=470741738219372545
+owner=575791868948774934
 prefix=!
 game=Deku Gang ,❄
 stayinchannel=true
